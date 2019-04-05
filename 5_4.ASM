@@ -23,4 +23,3 @@ START:	MOV AX,DSEG
 	INT 21H
 CSEG ENDS
 	END START
-	;ЁЖожакбрбКё©
